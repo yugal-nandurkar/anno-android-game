@@ -11,7 +11,7 @@ import microteam.game.main.GameMain;
 import microteam.game.main.Resources;
 import microteam.game.model.Block;
 import microteam.game.model.Cloud;
-import microteam.ryan.game.model.Player;
+import microteam.game.model.Player;
 
 public class PlayState extends State {
 	
